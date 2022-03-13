@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SkyAngel/static/css/main.43a1be56.css",
+    "main.js": "/SkyAngel/static/js/main.b5a373e3.js",
+    "static/media/3.jpg": "/SkyAngel/static/media/3.1c623230e9e2de102ba0.jpg",
+    "static/media/2.jpg": "/SkyAngel/static/media/2.8e47c1b828624708d26f.jpg",
+    "static/media/1.jpg": "/SkyAngel/static/media/1.9c46cb1ee2c3c6e41eb9.jpg",
+    "static/media/accomodation.jpg": "/SkyAngel/static/media/accomodation.2dbdafaf57bbf9827afe.jpg",
+    "static/media/cargo.jpg": "/SkyAngel/static/media/cargo.b3eaebd2578c06beda2e.jpg",
+    "static/media/groupCharter.jpg": "/SkyAngel/static/media/groupCharter.7e60ddce7fdb005eda99.jpg",
+    "static/media/airAmbulance.jpg": "/SkyAngel/static/media/airAmbulance.b4190fb12581b41370ab.jpg",
+    "static/media/businessCharter.jpg": "/SkyAngel/static/media/businessCharter.d1d1b86bc6eaa8381e79.jpg",
+    "static/media/logo.png": "/SkyAngel/static/media/logo.a592358e43da82cddacb.png",
+    "index.html": "/SkyAngel/index.html",
+    "main.43a1be56.css.map": "/SkyAngel/static/css/main.43a1be56.css.map",
+    "main.b5a373e3.js.map": "/SkyAngel/static/js/main.b5a373e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a1be56.css",
+    "static/js/main.b5a373e3.js"
+  ]
+}
