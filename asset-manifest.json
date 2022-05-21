@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/SkyAngel/static/css/main.0d15314c.css",
-    "main.js": "/SkyAngel/static/js/main.52c6258d.js",
+    "main.js": "/SkyAngel/static/js/main.84f0aa92.js",
     "static/media/slide3.jpg": "/SkyAngel/static/media/slide3.85abc4473911ab56ed1d.jpg",
     "static/media/slide1.jpg": "/SkyAngel/static/media/slide1.55db3678e17cb35fff35.jpg",
     "static/media/slide2.jpg": "/SkyAngel/static/media/slide2.d775665d0ce5971ecced.jpg",
     "static/media/slide4.jpg": "/SkyAngel/static/media/slide4.354ed5954ee5abfb3a0d.jpg",
     "static/media/slide8.jpg": "/SkyAngel/static/media/slide8.bce907773b24a94cbb20.jpg",
-    "static/media/nyasha.jpg": "/SkyAngel/static/media/nyasha.5d2523ea8ecec2f33276.jpg",
     "static/media/Challenger605Interior.jpg": "/SkyAngel/static/media/Challenger605Interior.08abf1d16fd996a28902.jpg",
     "static/media/slide6.jpg": "/SkyAngel/static/media/slide6.dbaced201ae2bccd1b45.jpg",
     "static/media/businessCharter.jpg": "/SkyAngel/static/media/businessCharter.e0e5174ad9e8f68a89ee.jpg",
     "static/media/challenger300Exterior.jpg": "/SkyAngel/static/media/challenger300Exterior.1b5f4a021e20a4bf97b7.jpg",
     "static/media/Embraer120Exterior.jpg": "/SkyAngel/static/media/Embraer120Exterior.7d1dd2f9d5be59c9f4ef.jpg",
     "static/media/GulfstreamGVExterior.jpg": "/SkyAngel/static/media/GulfstreamGVExterior.38551169a258fcaab00f.jpg",
+    "static/media/mudiwa.jpg": "/SkyAngel/static/media/mudiwa.e7cac12af7547fdd21af.jpg",
     "static/media/Learjet60Exterior.jpg": "/SkyAngel/static/media/Learjet60Exterior.f097a4e68d420afec680.jpg",
     "static/media/Learjet60Interior.jpg": "/SkyAngel/static/media/Learjet60Interior.f4c7987efddcd8cb9414.jpg",
     "static/media/GulfstreamGVInterior.jpg": "/SkyAngel/static/media/GulfstreamGVInterior.ad8d30d026a9d2d8c73d.jpg",
@@ -36,6 +36,7 @@
     "static/media/challenger600Interior.jpg": "/SkyAngel/static/media/challenger600Interior.4e9690f468ec0a5f13c5.jpg",
     "static/media/PilatusPC12Exterior.jpg": "/SkyAngel/static/media/PilatusPC12Exterior.41b37663bb40059aeb60.jpg",
     "static/media/Learjet45Interior.jpg": "/SkyAngel/static/media/Learjet45Interior.40e3a4949e7e6951405c.jpg",
+    "static/media/desmond.jpg": "/SkyAngel/static/media/desmond.10424de4aba47740adb1.jpg",
     "static/media/BoeingB767200ERExterior.jpg": "/SkyAngel/static/media/BoeingB767200ERExterior.2843a19b6d900047862b.jpg",
     "static/media/beechcraft1900Interior.jpg": "/SkyAngel/static/media/beechcraft1900Interior.a0689afae0edd20bf30e.jpg",
     "static/media/Embraer120Interior.jpg": "/SkyAngel/static/media/Embraer120Interior.462559210bbb28ae6a77.jpg",
@@ -44,16 +45,17 @@
     "static/media/challenger300Interior.jpg": "/SkyAngel/static/media/challenger300Interior.1bee97608528807e3f5f.jpg",
     "static/media/Express6000Exterior.jpg": "/SkyAngel/static/media/Express6000Exterior.b694f2db6c0672e93a53.jpg",
     "static/media/challenger601Exterior.jpg": "/SkyAngel/static/media/challenger601Exterior.98541c856afcc569a8a6.jpg",
+    "static/media/nyasha.jpeg": "/SkyAngel/static/media/nyasha.507be1eaab69a2563319.jpeg",
     "static/media/ambulance.jpg": "/SkyAngel/static/media/ambulance.e8d7a698b13818f69705.jpg",
     "static/media/logo.png": "/SkyAngel/static/media/logo.02c2d942fb82e1bf4fbe.png",
     "static/media/cargo.jpg": "/SkyAngel/static/media/cargo.be151c4161bdf2d53165.jpg",
     "static/media/logowhite.png": "/SkyAngel/static/media/logowhite.82fd3bd56d2f011504f8.png",
     "index.html": "/SkyAngel/index.html",
     "main.0d15314c.css.map": "/SkyAngel/static/css/main.0d15314c.css.map",
-    "main.52c6258d.js.map": "/SkyAngel/static/js/main.52c6258d.js.map"
+    "main.84f0aa92.js.map": "/SkyAngel/static/js/main.84f0aa92.js.map"
   },
   "entrypoints": [
     "static/css/main.0d15314c.css",
-    "static/js/main.52c6258d.js"
+    "static/js/main.84f0aa92.js"
   ]
 }
