@@ -132,7 +132,7 @@ export default function Footer() {
                   variant={'caption'}
                   color={'#fff'}
                 >
-                  <LinkMUI style={{color: '#fff'}} target='_blank'  rel='noreferrer' href='https://rusero.co.zw'>SiDesigned</LinkMUI> © SkyAngel Private Jet Charters {new Date().getFullYear()}. All right reserved
+                  <LinkMUI style={{color: '#fff'}} target='_blank'  rel='noreferrer' href='https://munashe.co.zw'>SiDesigned</LinkMUI> © SkyAngel Private Jet Charters {new Date().getFullYear()}. All right reserved
                 </Typography>
               </Box>
             </Item>
